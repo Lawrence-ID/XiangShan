@@ -365,3 +365,9 @@ stack.info*
 
 simulator_err.txt
 simulator_out.txt
+
+bosc_*/
+sim-wrapper/
+build-px/
+scripts/
+verdiLog/
